@@ -1,0 +1,14 @@
+{
+  "username": "jackgrieco",
+  "displayName": "Giacomo",
+  "tagline": null,
+  "projects": [
+    { "repo": "RAG-app", "description": null },
+    { "repo": "ArtigianatoOnline", "description": null },
+    { "repo": "FinanceManager-releases", "description": null },
+    { "repo": "PizzaManager-releases", "description": null }
+  ],
+  "links": [
+    { "label": "GitHub", "handle": "@jackgrieco", "url": "https://github.com/JackGrieco" }
+  ]
+}

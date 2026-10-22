@@ -1,0 +1,14 @@
+{
+  "name": "jackgrieco-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generates the SVG cards shown on the GitHub profile README",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "coverage": "node --test --experimental-test-coverage test/*.test.mjs"
+  }
+}
